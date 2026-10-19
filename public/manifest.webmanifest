@@ -1,0 +1,14 @@
+{
+  "name": "RiffLab — Elektro Gitar Stüdyosu",
+  "short_name": "RiffLab",
+  "description": "Akort cihazı, metronom, oynatılabilir tablar, dersler ve Rammstein riffleri.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
